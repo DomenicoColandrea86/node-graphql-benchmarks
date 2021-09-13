@@ -5,14 +5,10 @@
 - tracing resolvers kills performance
 - type-graphql adds overhead
 
-# Explanation
-
-For further details, please check out [this video](https://www.youtube.com/watch?v=JbV7MCeEPb8).
-
 # Usage
 
 ```
-git clone https://github.com/benawad/benchmarks
+git clone https://github.com/DomenicoColandrea86/node-graphql-benchmarks.git
 cd benchmarks
 npm install
 npm start
